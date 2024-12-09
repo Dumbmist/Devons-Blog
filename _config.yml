@@ -2,8 +2,8 @@ title: Devons Blog
 description: "Class of 2025"
 owner_name: Devon Mistry
 github_username: Dumbmist
-github_repo: "Devon-Blog" 
-baseurl: "/Devon-Blog"
+github_repo: "Devons-Blog" 
+baseurl: "/Devons-Blog"
 future: true
 # remote_theme: jekyll/minima
 minima:
