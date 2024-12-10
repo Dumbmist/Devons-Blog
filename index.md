@@ -5,6 +5,10 @@ description: Home Page
 hide: true
 ---
 
+{% include nav/home.html %}
+
+---
+
 # My name is Devon and this is my blog!
 
 ---
