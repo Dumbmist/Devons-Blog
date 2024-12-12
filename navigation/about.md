@@ -70,6 +70,7 @@ Content coming in theaters near you... JK - (Im not an artist but I tried my bes
   <img src="https://i.imgur.com/HzI4zBx.png" alt="Reading!">
   <img src="https://i.imgur.com/ws3MLoX.png" alt="Pasta">
   <img src="https://i.imgur.com/lZWpg8G.png" alt="Money">
+  <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe3Jckb8nNHdMgQYsKvxAEYWV02Hcenz77cUJBnEgmRnXwlSFT_y4o58pudzGXFa1WnODTkOBmUDEItvgq_y8L9MTXSbGK3bySsieBWMPkxMKeyMBJwa4JEg" alt="Merica">
 </div>
 
 ---
@@ -113,7 +114,7 @@ Origin  |  PA!  |England |   PA!  |  PA!  | <-- *PA= Pensylvania
 
 <script
      src="https://utteranc.es/client.js"
-        repo="Dumbmist/Devon-Blog"
+        repo="Dumbmist/Devons-Blog"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"

@@ -35,10 +35,12 @@ hide: true
 <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Verify</a>
 <a href=" https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Play</a>
 <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/hacks" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Hacks</a>
+<a href="https://dumbmist.github.io/Devons-Blog/devops/tools/verify" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Notebook</a>
+
 <br>git config --global user.emailm
 <script
      src="https://utteranc.es/client.js"
-        repo="Dumbmist/Devon-Blog"
+        repo="Dumbmist/Devons-Blog"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"
