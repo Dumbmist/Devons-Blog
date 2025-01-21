@@ -75,3 +75,5 @@ git config --global user.emailm
         crossorigin="anonymous"
         async>
 </script>
+
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a> 
