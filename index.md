@@ -76,4 +76,16 @@ git config --global user.emailm
         async>
 </script>
 
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_popcorn_hacks" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Popcorn</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Nested/hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Nested Hw</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Nested/pop1" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Nested pop1</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Nested/pop2" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
 <a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a> 
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
+<a href="https://Dumbmist.github.io/Devons-Blog/_notebooks/Instances/iterations_hw" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Iterations Homework</a>
