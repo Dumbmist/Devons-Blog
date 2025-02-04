@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Game Plan
-course: gameplan
+title: GameIdea
+course: gameidea
 menu: nav/home.html
 ---
 
 #### Game Idea
 
 - This game is going to be a item collecting/spanish learning adventure for the people who will play it.
-- The player (computer) will start in a world in "Dora Land" and will move to diffrent places of the the map
+- The player (computer) will start in a world in "Dora Land" (maybe the hood) and will move to different places of the the map
 
 #### NPC
 
@@ -25,11 +25,15 @@ menu: nav/home.html
 
 #### Game objective
 
-Dora will need to obtain the key and journey back to the chest to free Rachit from the chest. If Dora does not find the key and save rachit in under 5 minutes Rachit will not survive.
+Dora will need to obtain the key (or glock) and journey back to the chest (or gang) to free Rachit from the chest/gang. If Dora does not find the key and save rachit in under 5 minutes Rachit will not survive.
 
 (To find the key the q key will need to be pressed on the correct spot to dig.)
 (to do this, we will make an invisible npc that can be interacted with only with q)
 
 There will also be a leader board for who can save Rachit the fastest
 
-<a href="https://Dumbmist.github.io/Devons-Blog/assets/js/Gameplan.drawio" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Game Plan</a>
+Other games may be added as side quests and fun things to interact with, maybe check out the full blog to see what may be included
+
+<div class="image-gallery"> 
+  <img src="https://i.imgur.com/aKZFrTm.jpeg" alt="Chart">
+</div>
