@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pong
-course: pong
+title: Game Plan
+course: gameplan
 menu: nav/home.html
 ---
 
