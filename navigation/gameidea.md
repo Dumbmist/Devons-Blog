@@ -37,3 +37,7 @@ Other games may be added as side quests and fun things to interact with, maybe c
 <div class="image-gallery"> 
   <img src="https://i.imgur.com/aKZFrTm.jpeg" alt="Chart">
 </div>
+
+### Game Progress
+
+So far we have created the exterior shell code for the game to make it function to our needs. I have created GameLevelDora to jsut require the finished sprites and backgrounds to be complete (subject to minor change). We have edited Npc.js to fit our needs and are working on charecter to fix it to our needs. Further more, we have created another gamelevel called red light green light for the player after they complete the first one. (Still requiring the same finishing touches as before). 
