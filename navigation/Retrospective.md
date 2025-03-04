@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Restrospective
-description: Retrospective for Final.
-type: issues
-comments: True
-permalink: /_notebooks/Restrospective
+title: Retrospective
+course: retrospective
+menu: nav/home.html
 ---
 
 ### My CSSE Journey PT.1
-##### By: Devon Mistry
 
-### 1) My Take-aways
+##### By: Devon Mistry
+---
 
 ### 1) My Take-aways
 
@@ -23,13 +21,14 @@ This is not going to be some flowery essay or some detailed response because thi
     - Through the lesson group project I collaborated with my teamates and learned how to perform the actions above.
 - 4) These lessons, both from my own and the other classmates information, I learned many the fundamentals and basics of code - from for loops to arrays - and these helped me (along with prior knowledge) helped with my RPG game and it's creation
 - 5) The rpg game was like an accumulation of all the knowledge I had learned throughout the unit but applying it to an object based game. The clear object combined with the knowledge I had learned to produce a product that both went beyond and delivered on the planning guide.
-- ###### Honorable Mention: Snake Game
+- #### Honorable Mention: Snake Game
     - This was definitely the most fun I had the entire unit, I was deeply invested in creating new code to produce a product that I was happy with and was fun to play (both in difficulty and gamefunctions).
     - This allowed me to win the style compitions, due to my additions of a maze that randomely generates each round, a golden apple that gives the snake a speed boost, a color changing snake, and more.
-# changes the text size and makes it bold - more #'s and the smaller the big text gets
-<br> = line break
-"-" = bullet points
-| = create a table
+
+Function | "#" | "<br>" | "-" | "|" |
+Purpose  | changes the text size and makes it bold - more #'s and the smaller the big text gets| line break | bullet points | create a table - like this one |
+
+
 ### 2) RPG Game Tinkers
 
 In the Rpg game there was many adaptations of the code that I made, I will mention the most prominent and importnant ones - but the small details and code in my mind are the most important, maybe thats why without them the code can't function.
@@ -44,16 +43,16 @@ In the Rpg game there was many adaptations of the code that I made, I will menti
     - work in progress background collision/interactability
     - the pick up function itself (with the e key)
 
+    
 ### 3) Break Down of Tinkers
 
 <div class="image-gallery"> 
     <img src="https://i.imgur.com/aKZFrTm.jpeg" alt="Chart">
 </div>
 
-First breakdown: Keys (Using comments)
+#### First breakdown: Keys (Using comments)
 
-
-```python
+``` javascript
 function updateInventory() {
     const inventory = document.getElementById("inventory"); // Get the inventory element from the HTML
     if (!inventory) return; // Exit if the inventory element doesn't exist (prevents errors)
@@ -74,11 +73,10 @@ function updateInventory() {
         inventory.appendChild(slot); // Add the slot to the inventory display
     });
 }
-
 ```
+<br>
 
-
-```python
+``` javascript
 export function addItemToInventory(itemName) { //exported so it can be used in other code files
     if (inventoryItems.length < 8) { // Limit inventory slots at 8
         inventoryItems.push(itemName);
@@ -89,9 +87,9 @@ export function addItemToInventory(itemName) { //exported so it can be used in o
     updateInventory();
 }
 ```
+<br>
 
-
-```python
+``` javascript
 setPlayerItem() { //this code is to change a npc's code ater they have collected two keys
     this.itemsCollected++;
     addItemToInventory("spoon");
@@ -113,11 +111,10 @@ setPlayerItem() { //this code is to change a npc's code ater they have collected
     }
 }
 ```
+<br>
 
-This code calls upon the functions ive created in inventory.js to make the basic item/key functions occur.
-
-
-```python
+``` javascript
+// This code calls upon the functions ive created in inventory.js to make the basic item/key functions occur.
 removePlayerItem(item){
     this.itemsCollected--;
     removeItemFromInventory(item);
@@ -133,10 +130,9 @@ addKey() {
 }
 ```
 
-Second breakdown: KeySlot (the final boss)
+#### Second breakdown: KeySlot (the final boss)
 
-
-```python
+``` javascript
 addKey() { //Handles the add key to the keyslot feature
     if (this.isFilled) { // this.isFilled checks whether or not the keyslot is filled/ has 1 key (initially set to false)
         console.log("KeySlot already filled!");
@@ -159,9 +155,9 @@ addKey() { //Handles the add key to the keyslot feature
     return false;
 } 
 ```
+<br>
 
-
-```python
+``` javascript
 checkVictoryCondition() {
     if (GameEnv.victoryAchieved) return; // Stop checking if victory is already achieved to avoid redundant checks.
 
@@ -182,9 +178,9 @@ checkVictoryCondition() {
     }
 }
 ```
+<br>
 
-
-```python
+``` javascript
 handleKeyDown(event) {
     // Debug - Log the key that was pressed
     console.log(`Key pressed: ${event.key}`);
@@ -209,13 +205,11 @@ handleKeyDown(event) {
         }
     }
 }
-
 ```
 
-third breakdown: Victory Screen
+#### third breakdown: Victory Screen
 
-
-```python
+``` javascript
 showVictoryScreen() {
     // Create the victory screen container
     const victoryScreen = document.createElement('div');
@@ -288,11 +282,10 @@ showVictoryScreen() {
     // Clear any existing timeout for victory screen (if applicable)
     clearTimeout(this.victoryScreenTimeout);
 };
-
 ```
+<br>
 
-
-```python
+``` javascript 
 update() {
     // Update begins by drawing the object
     this.draw();
@@ -323,7 +316,9 @@ This will discuss the bullet points that surround point 5
 3) I know I am very far from a complete coder, but I have learned a lot, both in this class and outside which has helped ease me into this class and allow me to succeed by implementing the basics into my code. I know I am good at coming up with game ideas and new ways to improve gameplay, however managing the small niches and debugging is far from my strong suit. Leaving me to sometimes use our trusty friends rachit and chatGPT.
 4) This project went really well. Me and Nikhil worked hard together with little procrastination. We solved our issues together and never got caught up on struggling on the same thing. We executed our plans in the planning document and even went beyond to add more features.
 
-##### The moment of truth...
+---
+
+#### The moment of truth...
 The moral dilema of choosing our self-grade! If we give ourselves a hundred, we will seem like know it alls, but we did do everything...
 
 - I would honestly give myself a 4 6/7 or a 5, I believe that I completed everything in the slack message during this jupityr notebook retrospective and was truly invested in my game. I loved spending time creating an actual game, something you think only adults can do and to see it work and be complete with a game objective was pure joy. I covered all 5 bullet points extensively and fully understood everything we learned, and will gladly give more explanation if this wasn't apparent. The 1/7 missing is maybe because I wasn't a full 24 hours ahead with my slack message, but other than that, I met and went above and beyond in all catagories - winning style compitions for the snake game, getting a rare 0.93, and more. 
