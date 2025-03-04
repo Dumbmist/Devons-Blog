@@ -35,7 +35,8 @@ hide: true
 <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Verify</a>
 <a href=" https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Play</a>
 <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/hacks" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Hacks</a>
-<a href="https://dumbmist.github.io/Devons-Blog/devops/tools/verify" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Notebook</a>
+<a href="https://dumbmist.github.io/Devons-Blog/_notebook/Restrospective" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Notebook</a>
+
 
 ### My journey into game making:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
