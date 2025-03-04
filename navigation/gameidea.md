@@ -50,5 +50,5 @@ So far we have created the exterior shell code for the game to make it function 
   <img src="https://i.imgur.com/7Uzm2cW.png" alt="Key">
   <img src="https://i.imgur.com/9CMvbRH.png" alt="Boots">
   <img src="https://i.imgur.com/4NnCJg2.png" alt="Map">
-  <img src="https://i.imgur.com/vkJQtPl.png" alt="Burndownlist">
+  <img src="blob:https://imgur.com/e395e57f-2d4f-4012-b08f-50dcbf87a34f" alt="Chart">
 </div>
