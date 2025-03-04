@@ -44,3 +44,11 @@ So far we have created the exterior shell code for the game to make it function 
 
 
 ### Game Progress update 
+<div class="image-gallery"> 
+  <img src="https://i.imgur.com/vkJQtPl.png" alt="Burndownlist">
+  <img src="https://imgur.com/a85a1cf0-52c6-4ed2-8f2d-db9236763cd5" alt="Dora">
+  <img src="https://i.imgur.com/7Uzm2cW.png" alt="Key">
+  <img src="https://i.imgur.com/9CMvbRH.png" alt="Boots">
+  <img src="https://i.imgur.com/4NnCJg2.png" alt="Map">
+  <img src="https://i.imgur.com/vkJQtPl.png" alt="Burndownlist">
+</div>
